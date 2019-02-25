@@ -1,0 +1,13 @@
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\Updater IICAPS.exe.config
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\obj\Debug\Updater IICAPS.csprojResolveAssemblyReference.cache
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\obj\Debug\Updater_IICAPS.Properties.Resources.resources
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\obj\Debug\Updater IICAPS.csproj.GenerateResource.Cache
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\Updater IICAPS.exe
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\Updater IICAPS.pdb
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\obj\Debug\Updater_IICAPS.Updater.resources
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\obj\Debug\Updater IICAPS.exe
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\obj\Debug\Updater IICAPS.pdb
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\Google.Protobuf.dll
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\MySql.Data.dll
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\Google.Protobuf.xml
+D:\Escritorio\Proyectos\IICAPS\Software\Software Updater IICAPS\Updater IICAPS\Updater IICAPS\bin\Debug\MySql.Data.xml
